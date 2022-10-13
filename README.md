@@ -1,6 +1,5 @@
 ### Oiee eu sou a Juliana Lima👋
 - 🌱 Aprendendo Java e Banco de Dados, me aprofundando em HTML, CSS e JS 
-- 📫 Me contate pelo e-mail jp6001707@gmail.com ou pelo LinkedIn https://www.linkedin.com/in/juliana-lima-aa3b79230/
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,5 +20,5 @@
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Juliana-L1ma/Juliana-L1ma/blob/output/github-contribution-grid-snake.svg)
 
