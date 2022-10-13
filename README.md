@@ -1,4 +1,4 @@
-### Oiee eu sou a juliana Lima👋
+### Oiee eu sou a Juliana Lima👋
 - 🌱 Aprendendo Java e Banco de Dados, me aprofundando em HTML, CSS e JS 
 - 📫 Me contate pelo e-mail jp6001707@gmail.com ou pelo LinkedIn https://www.linkedin.com/in/juliana-lima-aa3b79230/
 
@@ -17,7 +17,6 @@
   
   
 <div>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jp6001707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
