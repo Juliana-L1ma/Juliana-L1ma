@@ -1,6 +1,6 @@
 ### Oiee eu sou a Juliana Lima👋
 
-<img align="center" src="https://as2.ftcdn.net/v2/jpg/03/73/81/05/1000_F_373810585_TiCkmXfiV0sBB6RhlcR2RbJOcucsipf2.jpg" alt="banner" width="900">
+<img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg" alt="banner" width="900">
 - 🌱 Aprendendo Java e Banco de Dados, me aprofundando em HTML, CSS e JS 
 - 
 <div>
