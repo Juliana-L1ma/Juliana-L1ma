@@ -3,10 +3,11 @@
 <img align="center" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="banner" width="900" height="240">
 
 <div style="display: inline_block"><br>
+  <h4>Skills</h4>
   <img align="center" alt="juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
+  
 </div>
 
 <div>
@@ -25,6 +26,7 @@
 
 <br>
 <div>
+  <img align="left" width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
   <p>📩 Me contate</p>
   <a href = "mailto:jp6001707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
