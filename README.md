@@ -2,8 +2,8 @@
 
 <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg" alt="banner" width="1000">
 ##Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src=https://cdn-icons-png.flaticon.com/512/148/148825.png"" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJP8NsWdQBGqiBYYJaDVm25Y4Aml_vYJr8JJfmM3M2kpWy2qhV-KTrwlNVkRFNF1pIk8&usqp=CAU" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
 <div>
   <h3>My Github Stats 📊</h3>
   <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
