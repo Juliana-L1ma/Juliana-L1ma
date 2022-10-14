@@ -2,8 +2,8 @@
 
 <img align="center" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="banner" width="900" height="240">
 
-<h4>Estou aprendendo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="40" height="40"/> 
+<h4>Estou aprendendo</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" size="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
 <div>
   <br>
