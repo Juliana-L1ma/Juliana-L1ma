@@ -3,7 +3,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
   
 <div style="display: inline_block"><br>
