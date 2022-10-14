@@ -1,8 +1,9 @@
 ### Oiee eu sou a Juliana Lima👋
 
 <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg" alt="banner" width="1000">
-- 🌱 Aprendendo Java e Banco de Dados, me aprofundando em HTML, CSS e JS 
-- 
+##Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src=https://cdn-icons-png.flaticon.com/512/148/148825.png"" width="40" height="40"/> 
 <div>
   <h3>My Github Stats 📊</h3>
   <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
