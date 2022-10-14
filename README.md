@@ -3,8 +3,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=radical"/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,4 +20,4 @@
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=dark"/>
+ 
