@@ -10,7 +10,7 @@
   <img align="center" alt="juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="150px" height="150px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
+  <img align="right" width="150px" height="150px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
 </div>
 
 <div>
