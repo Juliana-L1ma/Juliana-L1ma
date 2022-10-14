@@ -1,6 +1,6 @@
 ### Oiee eu sou a Juliana Lima👋
 - 🌱 Aprendendo Java e Banco de Dados, me aprofundando em HTML, CSS e JS 
-
+<img align="center" src="https://as2.ftcdn.net/v2/jpg/03/73/81/05/1000_F_373810585_TiCkmXfiV0sBB6RhlcR2RbJOcucsipf2.jpg" alt="banner" width="400">
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=radical"/>
