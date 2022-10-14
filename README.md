@@ -12,8 +12,7 @@
   <img align="center" alt="juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" width="150px" height="150px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
 </div>
-  
-<br>
+
 <div>
   <p>📩 Me contate</p>
   <a href = "mailto:jp6001707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
