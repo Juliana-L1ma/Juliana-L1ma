@@ -2,7 +2,7 @@
 
 <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg" alt="banner" width="1000">
 ##Estou aprendendo
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJP8NsWdQBGqiBYYJaDVm25Y4Aml_vYJr8JJfmM3M2kpWy2qhV-KTrwlNVkRFNF1pIk8&usqp=CAU" width="40" height="40"/> 
+<img src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png" width="40" height="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
 <div>
   <h3>My Github Stats 📊</h3>
