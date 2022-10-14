@@ -1,11 +1,13 @@
 ### Oiee eu sou a Juliana Lima <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align="center" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="banner" width="900" height="250">
+<img align="center" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="banner" width="900" height="240">
 
-<P>estou aprendendo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></P>
+<h4>Estou aprendendo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="40" height="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
 <div>
+  <br>
+  <hr>
   <h3>My Github Stats 📊</h3>
   <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="200px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=radical"/>
