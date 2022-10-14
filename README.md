@@ -1,7 +1,7 @@
-### Oiee eu sou a Juliana Lima👋
+### Oiee eu sou a Juliana Lima <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg" alt="banner" width="1000">
-##Estou aprendendo
+##Estou aprendendo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="40" height="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
 <div>
@@ -13,7 +13,7 @@
   <img align="center" alt="juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="150px" height="150px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
+  <img align="right" width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
 </div>
 <br>
 <div>
