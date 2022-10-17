@@ -23,12 +23,15 @@
 <hr>
 
 <!--ícones e imagem das estatísticas-->
+<div>
   <h3>My Github Stats 📊</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="juliana github stats" /></a> | 
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=dark"/>
-  
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=radical"/>
+<hr>
+</div>
+
 <br>
-<br>
+
 <!--links para contato-->
 <div>
   <p>📩 Me contate</p>
@@ -36,7 +39,7 @@
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  <img align="center" width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
+  <img  width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
 
 <!--animação-->
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
