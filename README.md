@@ -7,17 +7,19 @@
 <!--meio-->
 <div style="display: inline_block"><br>
   <h4>🟣Skills</h4>
-  <img align="center" alt="juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="juliana-CSS" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="juliana-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="juliana-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="juliana-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="juliana-CSS" height="50" width="50" src="https://user-images.githubusercontent.com/111203538/203060726-dd42a116-cc47-4fe4-991e-201145ca5fae.png">
 </div>
- 
+
+
 <br>
 
 <div>
    <h4>🟣Learning</h4>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="40"     height="40" /> 
-   <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="40" height="40"/> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="50"     height="50" /> 
+   <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="50" height="50"/> 
 </div>
 <br>
 <hr>
