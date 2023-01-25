@@ -19,7 +19,8 @@
 <div>
    <h4>🟣Learning</h4>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgxLn9fmEz1DFhMS6lLFUZbm1xxBHLYrtw4TjxQEDZlXAoR_fCYx253a3hp2HccKhsNk&usqp=CAU" width="50"     height="50" /> 
-   <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="50" height="50"/> 
+   <img src="https://cdn-icons-png.flaticon.com/512/148/148825.png" width="50" height="50"/>
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-aly5xo%2F&psig=AOvVaw2JSXVbrRWOSN21YQDrodC8&ust=1674775942418000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMif0dvw4_wCFQAAAAAdAAAAABAE" width="50" height="50"/> 
 </div>
 <br>
 <hr>
