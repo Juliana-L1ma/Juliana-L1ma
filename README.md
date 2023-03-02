@@ -28,8 +28,9 @@
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats 📊</h3>
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=16&theme=radical"/>
+![Juliana GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 </div>
 
