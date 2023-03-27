@@ -36,7 +36,7 @@
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats 📊</h3>
-  (https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=dracula)
+ [![Juliana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&bg_color=00000f&icon_color=fd415e&title_color=ff6384&locale=pt-br&border_radius=5.5&text_color=dcdcdc&hide_border=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
