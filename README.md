@@ -26,7 +26,7 @@
 </div>
 
 <div>
-  <h4>ide</h4>
+  <h4>ide and frameworks</h4>
   <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
    <img align="center" alt="juliana-CSS" height="50" width="50" src="https://user-images.githubusercontent.com/111203538/203060726-dd42a116-cc47-4fe4-991e-201145ca5fae.png">
   <div>
