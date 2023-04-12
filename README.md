@@ -45,7 +45,7 @@
   <a href="https://github.com/Juliana-L1ma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-L1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=7&theme=dracula"/>
- ![Streak](https://streak-stats.demolab.com/?user=Juliana-L1ma&theme=codeSTACKr)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juliana-L1ma&theme=dracula&hide_border=false)<br/>
 <hr>
 </div>
 
