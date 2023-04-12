@@ -42,6 +42,7 @@
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats 📊</h3>
+  ![](https://github-readme-streak-stats.herokuapp.com/?username=Juliana-L1ma&theme=shades-of-purple&hide_border=false)<br/>
 [![juliana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juliana-L1ma)](https://github.com/anuraghazra/github-readme-stats)
 
 
