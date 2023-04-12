@@ -1,4 +1,4 @@
-### Oiee eu sou a Juliana Lima <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Heey I'm Juliana Lima<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <!--cabeçalho-->
 
 <img align="center" src="https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif" alt="banner" width="900" height="240">
@@ -55,7 +55,7 @@
 <br>
 <!--links para contato-->
 <div>
-  <p>📩 Me contate</p>
+  <p>📩Contact me ↓</p>
   <a href = "mailto:jp6001707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
