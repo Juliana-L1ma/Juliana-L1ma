@@ -60,6 +60,6 @@
 <div>
   <img width="200px" height="190px" alt="juliana-img" src="https://github.com/Juliana-L1ma/Juliana-L1ma/assets/111203538/c835165a-194c-4566-bd7f-245dbfccd84e">
 
-  <p>About me:<br>-Game addicted 🎮<br>-Geek 🖖<br>-I love reading 📚<br>-I listen to music 24/7 🤘</p>
+  <p>About me:<br>-Game addicted 🎮<br>-Geek 🖖<br>-I love reading 📚<br>-Listening music 24/7 🤘</p>
 </div> 
  
