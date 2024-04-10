@@ -13,9 +13,6 @@
   <img align="center" alt="PHP"  src="https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white https://img.shields.io/badge/:badgeContent?style=flat&logo=PHP&logoColor=white&color=4169E1"/>
  <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
- 
- 
 </div>
 
 
@@ -35,8 +32,6 @@
    <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="notion"  height="30" width="65"  src="https://img.shields.io/badge/Notion-%23000000.svg">
     <img align="center" alt="figma"  height="30" width="65"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
-
-    
   <div>
 <br>
 <hr>
@@ -50,7 +45,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&layout=compact&langs_count=7&theme=dracula"/>
     
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Juliana-L1ma&theme=dracula&hide_border=false"/>
-
 <hr>
 </div>
 
@@ -61,10 +55,11 @@
   <a href = "mailto:jp6001707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-lima-aa3b79230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  <img  width="170px" height="170px" alt="juliana-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROMkA-V9nFpgs6sR3-ZlvbN7jW6sh970rp39P_2M&s">
+<br>
 
-<!--animação-->
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img width="200px" height="190px" alt="juliana-img" src="https://github.com/Juliana-L1ma/Juliana-L1ma/assets/111203538/c835165a-194c-4566-bd7f-245dbfccd84e">
 
+  <p>About me:<br>-Game addicted 🎮<br>-Geek 🖖<br>-I love reading 📚<br>-I listen to music 24/7 🤘</p>
+</div> 
  
