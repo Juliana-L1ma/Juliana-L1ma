@@ -11,8 +11,6 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="NODE.js"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="PHP"  src="https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white https://img.shields.io/badge/:badgeContent?style=flat&logo=PHP&logoColor=white&color=4169E1"/>
- <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 
@@ -21,7 +19,7 @@
 <div>
    <h4>🟣Learning</h4>
    <img align="center" alt="dotnet"  height="30" width="60"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzemPW2zVigKv44mjIDfGwrf_Rgzcyu07m_A&s">
-   <img align="center" alt="dotnet"  height="30" width="60"  src="https://programming.dev/pictrs/image/f64b5399-e206-48cb-aea3-a834aba414f3.png">
+   
   
 </div>
 
